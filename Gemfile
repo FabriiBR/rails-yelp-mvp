@@ -27,6 +27,7 @@ gem 'rspec-rails', '4.0.0.beta3', group: [:test]
 gem 'bootsnap', '>= 1.4.2', require: false
 # Gems Le wagon style cheatsheet
 gem 'autoprefixer-rails'
+gem 'faker'
 gem 'font-awesome-sass', '~> 5.6.1'
 gem 'simple_form'
 
